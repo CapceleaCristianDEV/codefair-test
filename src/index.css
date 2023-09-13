@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+
+body {
+  width: 100%;
+  background-color: #0f0f0f;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.carousel-slider {
+  max-height: 500px;
+}
+
+.carousel-root {
+  width: 100%;
+}
